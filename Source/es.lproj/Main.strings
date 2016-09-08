@@ -1,0 +1,156 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "02e-8r-vxv"; */
+"02e-8r-vxv.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Change Profile Pic"; ObjectID = "0S5-FS-4ck"; */
+"0S5-FS-4ck.normalTitle" = "Change Profile Pic";
+
+/* Class = "UIButton"; normalTitle = "Record Video"; ObjectID = "1Lb-Y4-fU9"; */
+"1Lb-Y4-fU9.normalTitle" = "Record Video";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1OO-Ih-MCb"; */
+"1OO-Ih-MCb.text" = "Label";
+
+/* Class = "UILabel"; text = "Language2"; ObjectID = "2sO-Wp-zkY"; */
+"2sO-Wp-zkY.text" = "Language2";
+
+/* Class = "UILabel"; text = "Public or Private"; ObjectID = "4zk-tg-gDt"; */
+"4zk-tg-gDt.text" = "Public or Private";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "925-TZ-6IN"; */
+"925-TZ-6IN.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9H0-Tt-woH"; */
+"9H0-Tt-woH.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "My Language"; ObjectID = "Auy-BO-u2X"; */
+"Auy-BO-u2X.placeholder" = "My Language";
+
+/* Class = "UIButton"; normalTitle = "Play Video"; ObjectID = "B0l-iJ-QGC"; */
+"B0l-iJ-QGC.normalTitle" = "Play Video";
+
+/* Class = "UIButton"; normalTitle = "Assign to My Students"; ObjectID = "Ddw-6C-Txj"; */
+"Ddw-6C-Txj.normalTitle" = "Assign to My Students";
+
+/* Class = "UIViewController"; title = "Student"; ObjectID = "FA1-Cg-K5K"; */
+"FA1-Cg-K5K.title" = "Student";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "FM6-yZ-8W4"; */
+"FM6-yZ-8W4.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Feedback"; ObjectID = "GJz-jp-RNe"; */
+"GJz-jp-RNe.normalTitle" = "Feedback";
+
+/* Class = "UINavigationController"; title = "Student"; ObjectID = "Guz-Ze-0vw"; */
+"Guz-Ze-0vw.title" = "Student";
+
+/* Class = "UINavigationController"; title = "Translator"; ObjectID = "Hbs-hT-q6i"; */
+"Hbs-hT-q6i.title" = "Translator";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "K2Q-Og-zrR"; */
+"K2Q-Og-zrR.text" = "Label";
+
+/* Class = "UILabel"; text = "Translator Tool: Coming Soon!"; ObjectID = "L1V-2i-Nfu"; */
+"L1V-2i-Nfu.text" = "Traductor: Viniendo Pronto!";
+
+/* Class = "UILabel"; text = "Dr. P wants to talk about Food"; ObjectID = "LuP-nl-sS9"; */
+"LuP-nl-sS9.text" = "Dr. P wants to talk about Food";
+
+/* Class = "UIButton"; normalTitle = "Invite"; ObjectID = "M5S-XJ-v49"; */
+"M5S-XJ-v49.normalTitle" = "Invitar";
+
+/* Class = "UIViewController"; title = "Audio Recorder"; ObjectID = "OSk-Gh-icQ"; */
+"OSk-Gh-icQ.title" = "Audio Recorder";
+
+/* Class = "UIViewController"; title = "Translator"; ObjectID = "Q9R-VQ-7tU"; */
+"Q9R-VQ-7tU.title" = "Translator";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "QMJ-w3-RdS"; */
+"QMJ-w3-RdS.text" = "3";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "QPT-BI-V7C"; */
+"QPT-BI-V7C.title" = "Item";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "QRH-Eh-aqy"; */
+"QRH-Eh-aqy.placeholder" = "Email Address";
+
+/* Class = "UITextField"; placeholder = "Int input for grade"; ObjectID = "QYv-nz-F1v"; */
+"QYv-nz-F1v.placeholder" = "Int input for grade";
+
+/* Class = "UINavigationController"; title = "Profile"; ObjectID = "RpG-8Y-cZw"; */
+"RpG-8Y-cZw.title" = "Profile";
+
+/* Class = "UIViewController"; title = "Classroom"; ObjectID = "Skr-FZ-49l"; */
+"Skr-FZ-49l.title" = "Classroom";
+
+/* Class = "UINavigationController"; title = "Translator Tool"; ObjectID = "TpQ-dp-Bk3"; */
+"TpQ-dp-Bk3.title" = "Translator Tool";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "WF9-oO-Wjw"; */
+"WF9-oO-Wjw.placeholder" = "Last Name";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "WeB-UP-aPW"; */
+"WeB-UP-aPW.text" = "3";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "Xgu-eL-nSZ"; */
+"Xgu-eL-nSZ.placeholder" = "First Name";
+
+/* Class = "UIButton"; normalTitle = "Delete My Topic"; ObjectID = "aBl-ug-bpV"; */
+"aBl-ug-bpV.normalTitle" = "Delete My Topic";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "aQ2-mj-Nsd"; */
+"aQ2-mj-Nsd.text" = "Language";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cu6-QW-qRz"; */
+"cu6-QW-qRz.text" = "Label";
+
+/* Class = "UILabel"; text = "Language1"; ObjectID = "fU0-IA-kNb"; */
+"fU0-IA-kNb.text" = "Language1";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "fca-iM-g3K"; */
+"fca-iM-g3K.normalTitle" = "Nuevo";
+
+/* Class = "UINavigationController"; title = "Messages"; ObjectID = "g4X-nC-0Qt"; */
+"g4X-nC-0Qt.title" = "Messages";
+
+/* Class = "UIViewController"; title = "Translator Tool"; ObjectID = "gil-Rs-pp5"; */
+"gil-Rs-pp5.title" = "Translator Tool";
+
+/* Class = "UIButton"; normalTitle = "Invite"; ObjectID = "grW-1Z-uU2"; */
+"grW-1Z-uU2.normalTitle" = "Invitar";
+
+/* Class = "UIViewController"; title = "Video Recorder"; ObjectID = "hdY-kJ-vnO"; */
+"hdY-kJ-vnO.title" = "Video Recorder";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "hgB-Ua-HdO"; */
+"hgB-Ua-HdO.placeholder" = "Email Address";
+
+/* Class = "UINavigationController"; title = "Classroom"; ObjectID = "iIa-bZ-QML"; */
+"iIa-bZ-QML.title" = "Classroom";
+
+/* Class = "UIButton"; normalTitle = "Add Student"; ObjectID = "kWN-p5-lRH"; */
+"kWN-p5-lRH.normalTitle" = "Add Student";
+
+/* Class = "UITextField"; placeholder = "Title"; ObjectID = "nsQ-Ae-sSo"; */
+"nsQ-Ae-sSo.placeholder" = "Title";
+
+/* Class = "UIViewController"; title = "User Profile"; ObjectID = "tlY-Lo-hyz"; */
+"tlY-Lo-hyz.title" = "User Profile";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "woG-R6-aXg"; */
+"woG-R6-aXg.placeholder" = "Last Name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wvA-2N-SkC"; */
+"wvA-2N-SkC.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Desired Language"; ObjectID = "x3W-oF-vRo"; */
+"x3W-oF-vRo.placeholder" = "Desired Language";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "x6K-n0-Tpq"; */
+"x6K-n0-Tpq.text" = "Name";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "yeL-Qj-4Sj"; */
+"yeL-Qj-4Sj.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "ywP-Nx-pYe"; */
+"ywP-Nx-pYe.placeholder" = "First Name";

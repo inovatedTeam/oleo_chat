@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  ready
+
+  Created by Patrick Sheehan on 4/14/16.
+  Copyright © 2016 Siochain. All rights reserved.
+*/
+
+Already_A_Member_Login = "经是会员吗？登录";
+Change_Profile_Pic = "更改个人资料图片";
+Completed_By = "完成的人";
+Confirm_Password = "密码确认";
+Create = "创建";
+Deadline = "最后期限";
+Discover = "发现";
+Email = "电子邮件";
+Feedback = "反馈";
+Grades = "级评分";
+Invite = "邀请";
+Incomplete = "不完整";
+Language = "语言";
+Language_Name = "中国语言";
+Login = "登录";
+Logoff = "注销";
+My_Assignments = "我的任务";
+My_Classes = "我的课";
+My_Classmates = "班级配偶里";
+My_Students = "我的学生";
+Native_Language = "本土语言";
+Not_A_Member_Register = "还不是会员？选民登记册";
+Other_Teachers = "还不是会员？选民登记册";
+Password = "其他教师";
+Password_Requirements = "密码要求";
+Password_Requirement_A = "至少 8 个字符";
+Password_Requirement_B = "至少 1 数量";
+Password_Requirement_C = "至少 1 封信";
+Password_Requirement_D = "没有特殊字符";
+Please_Input_Title = "请输入标题";
+Please_Input_Feedback = "请输入反馈";
+Please_Input_Grade = "请输入数值等级";
+Profile = "配置文件";
+Register = "登记册";
+School_Name = "学校名称";
+Student = "学生";
+Submit = "提交";
+Subtitle = "字幕";
+Teacher = "老师";
+Title = "标题";
+Translator = "译者";
+Translator_Coming_Soon = "翻译 ︰ 快到了 ！得到它很快地干";
+Username = "用户名";

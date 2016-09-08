@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  ready
+
+  Created by Patrick Sheehan on 4/14/16.
+  Copyright © 2016 Siochain. All rights reserved.
+*/
+
+Already_A_Member_Login = "Allerede medlem? Log ind";
+Change_Profile_Pic = "Skift profilbillede";
+Completed_By = "Færdiggjort af";
+Confirm_Password = "Bekræftelse af kodeord";
+Create = "Skab";
+Deadline = "Deadline";
+Discover = "Udforsk";
+Email = "Email";
+Feedback = "Feedback";
+Grades = "Karakterer";
+Invite = "Inviter";
+Incomplete = "Ufærdigt";
+Language = "Sprog";
+Language_Name = "Dansk";
+Login = "Log ind";
+Logoff = "Log af";
+My_Assignments = "Mine opgaver";
+My_Classes = "Mine klasser";
+My_Classmates = "Mine klassekammerater";
+My_Students = "Mine studerende";
+Native_Language = "Modersmål";
+Not_A_Member_Register = "Ikke medlem endnu? Registrer";
+Other_Teachers = "Andre lærere";
+Password = "Kodeord";
+Password_Requirements = "Krav til kodeord";
+Password_Requirement_A = "Mindst 8 tegn";
+Password_Requirement_B = "Mindst ét nummer";
+Password_Requirement_C = "Mindst 1 bogstav";
+Password_Requirement_D = "Ingen specielle tegn";
+Please_Input_Title = "Tilføj en titel";
+Please_Input_Feedback = "Tilføj feedback";
+Please_Input_Grade = "Tilføj numerisk karakter";
+Profile = "Profil";
+Register = "Registrer";
+School_Name = "Navn på skolen";
+Student = "Studerende";
+Submit = "Indsend";
+Subtitle = "Undertitel";
+Teacher = "Lærer";
+Title = "Titel";
+Translator = "Oversætter";
+Translator_Coming_Soon = "Oversætter: Kommer snart!";
+Username = "Brugernavn";

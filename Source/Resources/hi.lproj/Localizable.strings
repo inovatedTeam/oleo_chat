@@ -1,0 +1,52 @@
+/* 
+  Localizable.strings
+  ready
+
+  Created by Patrick Sheehan on 4/14/16.
+  Copyright © 2016 Siochain. All rights reserved.
+*/
+
+Already_A_Member_Login = "पहले से ही एक सदस्य हैं ? लॉग इन करें";
+Change_Profile_Pic = "प्रोफाइल तस्वीर बदलें";
+Completed_By = "पूर्ण करने वाला";
+Confirm_Password = "पासवर्ड की पुष्टि ";
+Create = "बनाएँ";
+Deadline = "समयसीमा";
+Discover = "खोजें";
+Email = "ईमेल";
+Feedback = "फीडबैक";
+Grades = "ग्रेड";
+Invite = "आमंत्रित करें";
+Incomplete = "अधूरा";
+Language = "भाषा";
+Language_Name = "हिंदी";
+Login = "लॉग इन करें";
+Logoff = "लॉगऑफ करें";
+My_Assignments = "मेरे असाइन्मेंट";
+My_Classes = "मेरी कक्षाएँ";
+My_Classmates = "मेरे सहपाठी";
+My_Students = "मेरे विद्यार्थी";
+Native_Language = "मातृ भाषा";
+Not_A_Member_Register = "अभी एक सदस्य नहीं है? पंजीकरण करें";
+Other_Teachers = "अन्य अध्यापक";
+Password = "पासवर्ड";
+Password_Requirements = "पासवर्ड के लिए आवश्यकताएँ";
+Password_Requirement_A = "कम से कम 8 वर्ण";
+Password_Requirement_B = "कम से कम 1 अंक";
+Password_Requirement_C = "कम से कम 1 अक्षर";
+Password_Requirement_D = "कोई विशेष वर्ण नहीं ";
+Please_Input_Title = "कृपया एक शीर्षक डालें";
+Please_Input_Feedback = "कृपया फीडबैक डालें";
+Please_Input_Grade = "कृपया ग्रेड को अंकों में डालें";
+Profile = "प्रोफ़ाइल";
+Register = "पंजीकरण करें";
+School_Name = "स्कूल का नाम";
+Student = "विद्यार्थी";
+Submit = "जमा करें";
+Subtitle = "उपशीर्षक";
+Teacher = "अध्यापक";
+Title = "शीर्षक";
+Translator = "अनुवादक";
+Translator_Coming_Soon = "अनुवादक: जल्द ही आ रहा है!!";
+Username = "उपयोगकर्ता नाम";
+

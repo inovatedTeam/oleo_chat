@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  ready
+
+  Created by Patrick Sheehan on 4/14/16.
+  Copyright © 2016 Siochain. All rights reserved.
+*/
+
+Already_A_Member_Login = "Ina ball cheana féin? Logáil isteach";
+Change_Profile_Pic = "Athrú pictúir prófíl";
+Completed_By = "Déanta ag";
+Confirm_Password = "Cinntiú pasfhocal";
+Create = "Cruthaigh";
+Deadline = "Spriocdháta";
+Discover = "Aimsigh";
+Email = "Ríomhphost";
+Feedback = "Aiseolas";
+Grades = "Grádaí";
+Invite = "Tabhair cuireadh ar duine";
+Incomplete = " Easnamhach ";
+Language = "Teanga";
+Language_Name = "Gaeilge";
+Login = " Logáil isteach ";
+Logoff = " Logáil amach ";
+My_Assignments = "Mo Tascanna";
+My_Classes = "Mo ranganna";
+My_Classmates = "Mo páirtí ranga";
+My_Students = "Mo daltaí";
+Native_Language = "Teanga Dúchais";
+Not_A_Member_Register = "Níl tú ina ball? Comhshocraigh";
+Other_Teachers = "Múinteoirí Eile";
+Password = "Pasfhocal";
+Password_Requirements = "Gá Pasfhocal ";
+Password_Requirement_A = "8 litreacha ar a laghad";
+Password_Requirement_B = "1 uimhir ar a laghad ";
+Password_Requirement_C = "1 litir ar a laghad ";
+Password_Requirement_D = "Gan a usáid litreacha spesialta";
+Please_Input_Title = "Cur isteach an teideal le do thoil";
+Please_Input_Feedback = "Cur isteach d’aiseolas le do thoil ";
+Please_Input_Grade = "Cur isteach grád uimhriúil le do thoil";
+Profile = " Prófíl ";
+Register = " Comhshocraigh";
+School_Name = "Ainm an scoil";
+Student = "Dalta";
+Submit = "Cur isteach";
+Subtitle = "Mion Teideal";
+Teacher = "Múinteoir";
+Title = "Teideal";
+Translator = "Aistritheoir";
+Translator_Coming_Soon = "Aistritheoir: Ag teacht go luath!";
+Username = "Ainm an Úsáideora";

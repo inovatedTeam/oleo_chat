@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  ready
+
+  Created by Patrick Sheehan on 4/14/16.
+  Copyright © 2016 Siochain. All rights reserved.
+*/
+
+Already_A_Member_Login = "آیا قبلا عضو بوده اید؟ وارد شوید";
+Change_Profile_Pic = "تصویرر پروفایل را تغییر دهید";
+Completed_By = "تکمیل شده توسط";
+Confirm_Password = "تایید پسورد (گذرواژه)";
+Create = "ایجاد";
+Deadline = "مهلت";
+Discover = "پیدا کردن";
+Email = "ایمیل";
+Feedback = "بازخورد";
+Grades = "نمرات";
+Invite = "دعوت کردن";
+Incomplete = "ناتمام";
+Language = "زبان";
+Language_Name = "فارسی";
+Login = "ورود به سیستم";
+Logoff = "خروج از سیستم";
+My_Assignments = "تکالیف من";
+My_Classes = "کلاسهای من";
+My_Classmates = "همکلاسی های من";
+My_Students = "شاگردان من";
+Native_Language = "زبان مادری";
+Not_A_Member_Register = "آیا تاکنون عضو نبوده اید؟ عضو شوید";
+Other_Teachers = "سایر معلم ها";
+Password = "پسورد";
+Password_Requirements = "نیازمندی های پسورد";
+Password_Requirement_A = "حداقل 8 کاراکتر";
+Password_Requirement_B = "حداقل یک عدد";
+Password_Requirement_C = "حداقل یک حرف";
+Password_Requirement_D = "بدون کاراکترهای خاص";
+Please_Input_Title = "لطفا یک عنوان واردد کنید";
+Please_Input_Feedback = "لطفا بازخورد دهید";
+Please_Input_Grade = "لطفا نمره عددی بدهید";
+Profile = "پروفایل";
+Register = "ثبت نام";
+School_Name = "نام مدرسه";
+Student = "دانش آموز";
+Submit = "ثبت";
+Subtitle = "عنوان فرعی";
+Teacher = "معلم";
+Title = "عنوان";
+Translator = "مترجم";
+Translator_Coming_Soon = "مترجم: بزودی خواهد آمد!";
+Username = "نام کاربری";

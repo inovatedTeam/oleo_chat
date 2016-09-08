@@ -1,0 +1,52 @@
+/* 
+  Localizable.strings
+  ready
+
+  Created by Patrick Sheehan on 4/14/16.
+  Copyright © 2016 Siochain. All rights reserved.
+*/
+
+Already_A_Member_Login = "Jesteú juø uøytkownikiem? Zaloguj siÍ";
+Change_Profile_Pic = "ZmieÒ ZdjÍcie Profilowe";
+Completed_By = "UkoÒczone przez";
+Confirm_Password = "Potwierdzenie Has≥a";
+Create = "UtwÛrz";
+Deadline = "Ostateczny Termin";
+Discover = "Odkryj";
+Email = "Email";
+Feedback = "Informacje Zwrotne";
+Grades = "Stopnie";
+Invite = "Invite";
+Incomplete = "Niekompletne";
+Language = "JÍzyk";
+Language_Name = "Polski";
+Login = "Zaloguj SiÍ";
+Logoff = "Wyloguj SiÍ";
+My_Assignments = "Moje Zadania";
+My_Classes = "Moje Klasy";
+My_Classmates = "Moi Koledzy z Klasy";
+My_Students = "Moi Studenci";
+Native_Language = "JÍzyk Ojczysty";
+Not_A_Member_Register = "Nie Jesteú Jeszcze Uøytkownikiem? Zarejestruj SiÍ";
+Other_Teachers = "Inni Nauczyciele";
+Password = "Has≥o";
+Password_Requirements = "Wymagania Has≥a";
+Password_Requirement_A = "Co Najmniej 8 ZnakÛw";
+Password_Requirement_B = "Co Najmniej 1 Numer";
+Password_Requirement_C = "Co Najmniej 1 Litera";
+Password_Requirement_D = "Bez ZnakÛw Specjalnych";
+Please_Input_Title = "Prosimy, Podaj SwÛj Tytu≥";
+Please_Input_Feedback = "Prosimy, Wpisz InformacjÍ Zwrotnπ";
+Please_Input_Grade = "Prosimy Wpisz Numeryczny StopieÒ";
+Profile = "Profil";
+Register = "ZarejestrÛj siÍ";
+School_Name = "Nazwa szko≥y";
+Student = "Student";
+Submit = "Submit";
+Subtitle = "Podtytu≥";
+Teacher = "Nauczyciel";
+Title = "Tytu≥";
+Translator = "T≥umacz";
+Translator_Coming_Soon = "T≥umacz: Juø Niebawem DostÍpny!";
+Username = "Nazwa Uøytkownika";
+

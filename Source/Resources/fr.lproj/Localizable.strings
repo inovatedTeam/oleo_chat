@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  ready
+
+  Created by Patrick Sheehan on 4/14/16.
+  Copyright © 2016 Siochain. All rights reserved.
+*/
+
+Already_A_Member_Login = "Déjà membre? Connexion";
+Change_Profile_Pic = "Changer de photo de profile";
+Completed_By = "Complété par";
+Confirm_Password = "Confirmation du mot de passe";
+Create = "Créer";
+Deadline = "Date limite";
+Discover = "Découvrir";
+Email = "Courrier électronique";
+Feedback = "Evaluation";
+Grades = "Catégories";
+Invite = "Inviter";
+Incomplete = "Incomplet";
+Language = "Langage";
+Language_Name = "Français";
+Login = "Connexion";
+Logoff = "Déconnexion";
+My_Assignments = "Mes missions";
+My_Classes = "Mes classes";
+My_Classmates = "Mes camarades";
+My_Students = "Mes élèves";
+Native_Language = "Langue maternelle";
+Not_A_Member_Register = "Pas encore membre ? S'inscrire";
+Other_Teachers = "D'autres Enseignants";
+Password = "Mot de passe";
+Password_Requirements = "Conditions de mot de passe";
+Password_Requirement_A = "Au moins 8 caractères ";
+Password_Requirement_B = "Au moins 1 nombre";
+Password_Requirement_C = "Au moins 1 lettre";
+Password_Requirement_D = "Pas de caractères spéciaux";
+Please_Input_Title = "Enter un titre s’il vous plait ";
+Please_Input_Feedback = "Entrer votre évaluation  s’il vous plait";
+Please_Input_Grade = "Entrer note numérique s’il vous plait ";
+Profile = "Profile";
+Register = "Inscription";
+School_Name = "Nom d’école";
+Student = "Etudiant";
+Submit = "Envoyer";
+Subtitle = "Sous-titre";
+Teacher = "Enseignant";
+Title = "Titre";
+Translator = "Traduction";
+Translator_Coming_Soon = "Traducteur : arrivera bientôt !";
+Username = "Nom  d’utilisateur";

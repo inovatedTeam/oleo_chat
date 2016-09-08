@@ -1,0 +1,52 @@
+/* 
+  Localizable.strings
+  ready
+
+  Created by Patrick Sheehan on 4/14/16.
+  Copyright © 2016 Siochain. All rights reserved.
+*/
+
+Already_A_Member_Login = "Zaten üye misiniz? Giriş yapın";
+Change_Profile_Pic = "Profil Resmi Değiştir";
+Completed_By = "Tamamlama";
+Confirm_Password = "Parola Onayı";
+Create = "Oluştur";
+Deadline = "Bitiş tarihi";
+Discover = "Keşfet";
+Email = "E-posta";
+Feedback = "Geri bildirim";
+Grades = "Notlar";
+Invite = "Davet";
+Incomplete = "Tamamlanmamış";
+Language = "Dil";
+Language_Name = "Türkçe";
+Login = "Giriş";
+Logoff = "Çıkış";
+My_Assignments = "Ödevlerim";
+My_Classes = "Sınıflarım";
+My_Classmates = "Sınıf Arkadaşlarım";
+My_Students = "Öğrencilerim";
+Native_Language = "Anadil";
+Not_A_Member_Register = "Henüz üye değil misiniz? Kaydolun";
+Other_Teachers = "Diğer Öğretmenler";
+Password = "Parola";
+Password_Requirements = "Parola Gereksinimleri";
+Password_Requirement_A = "En az 8 karakter";
+Password_Requirement_B = "En az 1 rakam";
+Password_Requirement_C = "En az 1 harf";
+Password_Requirement_D = "Özel karakter yok";
+Please_Input_Title = "Lütfen bir başlık girin";
+Please_Input_Feedback = "Lütfen geri bildiriminizi girin";
+Please_Input_Grade = "Lütfen sayı olarak notunuzu girin";
+Profile = "Profil";
+Register = "Kayıt";
+School_Name = "Okulun";
+Student = "Öğrenci";
+Submit = "Gönder";
+Subtitle = "Alt başlık";
+Teacher = "Öğretmen";
+Title = "Başlık";
+Translator = "Çeviren";
+Translator_Coming_Soon = "Çeviren: Yakında!";
+Username = "Kullanıcı adı";
+

@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  ready
+
+  Created by Patrick Sheehan on 4/14/16.
+  Copyright © 2016 Siochain. All rights reserved.
+*/
+
+Already_A_Member_Login = "既にメンバー？ ログイン";
+Change_Profile_Pic = "プロフィール画像を変える";
+Completed_By = "...によって完成";
+Confirm_Password = "パスワードの確認";
+Create = "作る";
+Deadline = "締め切り";
+Discover = "発見";
+Email = "電子メール";
+Feedback = "フィードバック";
+Grades = "成績";
+Invite = "招待";
+Incomplete = "未完成";
+Language = "言語";
+Language_Name = "日本語";
+Login = "ログイン";
+Logoff = "ログオフ";
+My_Assignments = "私の宿題";
+My_Classes = "私のクラス";
+My_Classmates = "私のクラスメート";
+My_Students = "私の生徒";
+Native_Language = "母国語";
+Not_A_Member_Register = "まだメンバーじゃ無い？ 登録";
+Other_Teachers = "他の教師";
+Password = "パスワード";
+Password_Requirements = "パスワードの必要条件";
+Password_Requirement_A = "少なくとも8字";
+Password_Requirement_B = "少なくとも1数字";
+Password_Requirement_C = "少なくとも1文字";
+Password_Requirement_D = "特別な文字は使えません";
+Please_Input_Title = "タイトルを入力して下さい";
+Please_Input_Feedback = "フィードバックを入力して下さい";
+Please_Input_Grade = "数値成績を入力して下さい";
+Profile = "プロフィール";
+Register = "登録";
+School_Name = "学校名";
+Student = "生徒";
+Submit = "提出";
+Subtitle = "字幕";
+Teacher = "教師";
+Title = "タイトル";
+Translator = "翻訳者";
+Translator_Coming_Soon = "翻訳者: もうすぐ来るよ!";
+Username = "ユーザー名";

@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  ready
+
+  Created by Patrick Sheehan on 4/14/16.
+  Copyright © 2016 Siochain. All rights reserved.
+*/
+
+Already_A_Member_Login = "Ja ets membre? Inicia Sessió";
+Change_Profile_Pic = "Canvia la foto de Perfil";
+Confirm_Password = "Confirma la contrasenya";
+Discover = "Descobreix";
+Email = "Correu electrònic";
+Feedback = "Comentaris";
+Grades = "Resultats";
+Invite = "Convida";
+Language = "Idioma";
+Login = "Entrar";
+Logoff = "Sortir";
+My_Assignments = "Treballs";
+My_Classes = "Classes";
+My_Classmates = "Amics";
+My_Students = "Alumnes";
+Native_Language = "Llenguatge natiu";
+Not_A_Member_Register = "Encara no ets membre? Registra't";
+Other_Teachers = "Altres professors";
+Password = "Contrasenya";
+Profile = "Perfil";
+Register = "Registrar-se";
+Translator = "Traductor";
+Translator_Coming_Soon = "Traductor: en procés!";
+Username = "Nom d’usuari";

@@ -1,0 +1,39 @@
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "0iR-kF-wvp"; */
+"0iR-kF-wvp.placeholder" = "Username";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "39D-vm-fob"; */
+"39D-vm-fob.normalTitle" = "Register";
+
+/* Class = "UIViewController"; title = "Login"; ObjectID = "6oe-xq-J8y"; */
+"6oe-xq-J8y.title" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Not a member? Register"; ObjectID = "9RA-FQ-eM2"; */
+"9RA-FQ-eM2.normalTitle" = "Not a member? Register";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "FRB-uA-82v"; */
+"FRB-uA-82v.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Already a member? Log In"; ObjectID = "LbC-sd-voc"; */
+"LbC-sd-voc.normalTitle" = "Already a member? Log In";
+
+/* Class = "UIViewController"; title = "Registration"; ObjectID = "RFX-Vh-tSj"; */
+"RFX-Vh-tSj.title" = "Registration";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "bOQ-ab-ow7"; */
+"bOQ-ab-ow7.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "csR-BD-hHU"; */
+"csR-BD-hHU.normalTitle" = "Login";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "dnZ-mL-Tq7"; */
+"dnZ-mL-Tq7.placeholder" = "Username";
+
+/* Class = "UILabel"; text = "Native Language"; ObjectID = "ekr-bD-IOe"; */
+"ekr-bD-IOe.text" = "Native Language";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "mrT-dw-AwK"; */
+"mrT-dw-AwK.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "sG6-o9-qmW"; */
+"sG6-o9-qmW.placeholder" = "Confirm Password";

@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  ready
+
+  Created by Patrick Sheehan on 4/14/16.
+  Copyright © 2016 Siochain. All rights reserved.
+*/
+
+Already_A_Member_Login = "ਪਹਿਲਾਂ ਤੋਂ ਹੀ ਮੈਂਬਰ ਹੋ ? ਲੌਗ ਇਨ ਕਰੋ ";
+Change_Profile_Pic = "ਪ੍ਰੋਫਾਈਲ ਫੋਟੋ ਬਦਲੋ";
+Completed_By = "ਪੂਰਾ ਕਰਨ ਵਾਲਾ";
+Confirm_Password = "ਪਾਸਵਰਡ ਦੀ ਪੁਸ਼ਟੀ";
+Create = "ਬਣਾਓ";
+Deadline = "ਡੈੱਡਲਾਈਨ";
+Discover = "ਲੱਭੋ";
+Email = "ਈਮੇਲ";
+Feedback = "ਫੀਡਬੈਕ";
+Grades = "ਗ੍ਰੇਡ";
+Invite = "ਸੱਦੋ";
+Incomplete = "ਅਧੂਰਾ";
+Language = "ਭਾਸ਼ਾ";
+Language_Name = "ਪੰਜਾਬੀ";
+Login = "ਲੌਗ ਇਨ ਕਰੋ";
+Logoff = "ਲੌਗ ਔਫ ਕਰੋ";
+My_Assignments = "ਮੇਰੇ ਅਸਾਇਨਮੈੰਟਸ";
+My_Classes = "ਮੇਰੀਆਂ ਕਲਾਸਾਂ";
+My_Classmates = "ਮੇਰੇ ਜਮਾਤੀ";
+My_Students = "ਮੇਰੇ ਵਿਦਿਆਰਥੀ";
+Native_Language = "ਮਾਤ ਭਾਸ਼ਾ";
+Not_A_Member_Register = "ਹਾਲੇ ਇੱਕ ਸਦੱਸ ਨਹੀਂ ਹੋ? ਰਜਿਸਟਰ ਕਰੋ";
+Other_Teachers = "ਹੋਰ ਅਧਿਆਪਕ";
+Password = "ਪਾਸਵਰਡ";
+Password_Requirements = "ਪਾਸਵਰਡ ਲਈ ਜ਼ਰੂਰਤਾਂ";
+Password_Requirement_A = "ਘੱਟ ਤੋਂ ਘੱਟ 8 ਚਿੰਨ੍ਹ";
+Password_Requirement_B = "ਘੱਟ ਤੋਂ ਘੱਟ 1 ਅੰਕ";
+Password_Requirement_C = "ਘੱਟ ਤੋਂ ਘੱਟ 1 ਅੱਖਰ";
+Password_Requirement_D = "ਕੋਈ ਖ਼ਾਸ ਚਿੰਨ੍ਹ ਨਹੀਂ ";
+Please_Input_Title = "ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਸਿਰਲੇਖ ਪਾਓ";
+Please_Input_Feedback = "ਕਿਰਪਾ ਕਰਕੇ ਫੀਡਬੈਕ ਪਾਓ";
+Please_Input_Grade = "ਕਿਰਪਾ ਕਰਕੇ ਅੰਕਾਂ ਵਿੱਚ ਗ੍ਰੇਡ ਪਾਓ";
+Profile = "ਪ੍ਰੋਫਾਈਲ";
+Register = "पਰਜਿਸਟਰ ਕਰੋ";
+School_Name = "ਸਕੂਲ ਦਾ ਨਾਮ";
+Student = "ਵਿਦਿਆਰਥੀ";
+Submit = "ਜਮ੍ਹਾਂ ਕਰੋ";
+Subtitle = "ਉਪਸਿਰਲੇਖ";
+Teacher = "ਅਧਿਆਪਕ";
+Title = "ਸਿਰਲੇਖ";
+Translator = "ਅਨੁਵਾਦਕ";
+Translator_Coming_Soon = "ਅਨੁਵਾਦਕ: ਛੇਤੀ ਆ ਰਿਹਾ ਹੈ!";
+Username = "ਉਪਭੋਗਤਾ ਨਾਂ";

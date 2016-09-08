@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  ready
+
+  Created by Patrick Sheehan on 4/14/16.
+  Copyright © 2016 Siochain. All rights reserved.
+*/
+
+Already_A_Member_Login = "Already a member? Login";
+Change_Profile_Pic = "Change Profile Pic";
+Completed_By = "Completed by";
+Confirm_Password = "Password Confirmation";
+Create = "Create";
+Deadline = "Deadline";
+Discover = "Discover";
+Email = "Email";
+Feedback = "Feedback";
+Grades = "Grades";
+Invite = "Invite";
+Incomplete = "Incomplete";
+Language = "Language";
+Language_Name = "English";
+Login = "Login";
+Logoff = "Logoff";
+My_Assignments = "My Assignments";
+My_Classes = "My Classes";
+My_Classmates = "My Classmates";
+My_Students = "My Students";
+Native_Language = "Native Language";
+Not_A_Member_Register = "Not a member yet? Register";
+Other_Teachers = "Other Teachers";
+Password = "Password";
+Password_Requirements = "Password Requirements";
+Password_Requirement_A = "At least 8 characters";
+Password_Requirement_B = "At least 1 number";
+Password_Requirement_C = "At least 1 letter";
+Password_Requirement_D = "No special characters";
+Please_Input_Title = "Please input a title";
+Please_Input_Feedback = "Please input feedback";
+Please_Input_Grade = "Please input numerical grade";
+Profile = "Profile";
+Register = "Register";
+School_Name = "School Name";
+Student = "Student";
+Submit = "Submit";
+Subtitle = "Subtitle";
+Teacher = "Teacher";
+Title = "Title";
+Translator = "Translator";
+Translator_Coming_Soon = "Translator: Coming Soon!";
+Username = "Username";

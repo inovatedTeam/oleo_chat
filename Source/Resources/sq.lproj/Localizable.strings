@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  ready
+
+  Created by Patrick Sheehan on 4/14/16.
+  Copyright © 2016 Siochain. All rights reserved.
+*/
+
+Already_A_Member_Login = "Jeni antar? Kyçu";
+Change_Profile_Pic = "Ndrysho foton e profilit";
+Completed_By = "Përfunduar nga";
+Confirm_Password = "Konfirmimi i fjalëkalimit";
+Create = "Krijo";
+Deadline = "Afati i fundit";
+Discover = "Zbulo";
+Email = "Email";
+Feedback = "Sheno";
+Grades = "Notat";
+Invite = "Fto";
+Incomplete = "Jo e plotë";
+Language = "Gjuhë";
+Language_Name = "Shqip";
+Login = "Kyçu";
+Logoff = "Dil";
+My_Assignments = "Detyrat E mia";
+My_Classes = "Kurset e mia";
+My_Classmates = "Kolegët e mi";
+My_Students = "Studentët e mi";
+Native_Language = "Gjuha mëmë";
+Not_A_Member_Register = "Akoma nuk jeni një anëtar? Rregjistrohu";
+Other_Teachers = "Mësues të tjerë";
+Password = "Fjalëkalim";
+Password_Requirements = "Kërkesat për fjalëkalim";
+Password_Requirement_A = "Të paktën 8 karaktere";
+Password_Requirement_B = "Të paktën 1 numër";
+Password_Requirement_C = " Të paktën 1 gërmë";
+Password_Requirement_D = "Jo karaktere speciale";
+Please_Input_Title = "Ju lutem vendosni një titull";
+Please_Input_Feedback = "Ju lutem na jepni një mendim";
+Please_Input_Grade = "Ju lutem vendosni notën numerike";
+Profile = "Profil";
+Register = "Rregjistrohu";
+School_Name = "Emri i Shkollës";
+Student = "Student";
+Submit = "Vendos";
+Subtitle = "Nën Titull";
+Teacher = "Mësues";
+Title = "Titull";
+Translator = "Përkthyes";
+Translator_Coming_Soon = "Pëkthyes: Së shpejti!";
+Username = "Emër Përdoruesi";

@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  ready
+
+  Created by Patrick Sheehan on 4/14/16.
+  Copyright © 2016 Siochain. All rights reserved.
+*/
+
+Already_A_Member_Login = "기존 회원인가요? 로그인";
+Change_Profile_Pic = "프로필 사진을 변경";
+Completed_By = "완성자";
+Confirm_Password = "패스워드 확인";
+Create = "생성";
+Deadline = "마감시한";
+Discover = "찾기";
+Email = "이메일";
+Feedback = "피드백";
+Grades = "학점";
+Invite = "초대";
+Incomplete = "미완료";
+Language = "언어";
+Language_Name = "한국어";
+Login = "로그인";
+Logoff = "로그오프";
+My_Assignments = "나의 숙제";
+My_Classes = "나의 클래스";
+My_Classmates = "나의 학급친구";
+My_Students = "나의 학생";
+Native_Language = "모국어";
+Not_A_Member_Register = "아직 멤버가 아닌가요? 등록하기";
+Other_Teachers = "다른 선생님들";
+Password = "패스워드";
+Password_Requirements = "패스워드 작성 규칙";
+Password_Requirement_A = "최소 8문자";
+Password_Requirement_B = "최소 1개의 숫자";
+Password_Requirement_C = "최소 1개의 영문자";
+Password_Requirement_D = "특수 문자 없음";
+Please_Input_Title = "제목을 입력 해 주세요";
+Please_Input_Feedback = "피드백을 입력 해 주세요";
+Please_Input_Grade = "숫자로 학점을 입력 해 주세요";
+Profile = "프로필";
+Register = "등록";
+School_Name = "학교명";
+Student = "학생";
+Submit = "제출";
+Subtitle = "부제목";
+Teacher = "선생님";
+Title = "제목";
+Translator = "번역가";
+Translator_Coming_Soon = "번역가: 곧 출시됩니다!";
+Username = "사용자명";

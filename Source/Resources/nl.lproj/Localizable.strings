@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  ready
+
+  Created by Patrick Sheehan on 4/14/16.
+  Copyright © 2016 Siochain. All rights reserved.
+*/
+
+Already_A_Member_Login = "Bent u al lid? Login";
+Change_Profile_Pic = "Profielfoto wijzigen";
+Completed_By = "Ingevuld door";
+Confirm_Password = "Wachtwoord bevestiging";
+Create = "Maken";
+Deadline = "Termijn";
+Discover = "Ontdek";
+Email = "Email";
+Feedback = "Feedback";
+Grades = "Rangen";
+Invite = "Uitnodigen";
+Incomplete = "Onvolledig";
+Language = "Taal";
+Language_Name = "Nederlands";
+Login = "Login";
+Logoff = "Afmelden";
+My_Assignments = "Mijn opdrachten";
+My_Classes = "Mijn lessen";
+My_Classmates = "Mijn klasgenoten";
+My_Students = "Mijn studenten";
+Native_Language = "Moedertaal";
+Not_A_Member_Register = "Nog geen lid? Registreren";
+Other_Teachers = "Andere leerkrachten";
+Password = "Wachtwoord";
+Password_Requirements = "Wachtwoordvereisten";
+Password_Requirement_A = "Ten minste 8 tekens";
+Password_Requirement_B = "Ten minste 1 cijfer";
+Password_Requirement_C = "Ten minste 1 letter";
+Password_Requirement_D = "Geen speciale tekens";
+Please_Input_Title = "Voer een titel";
+Please_Input_Feedback = "Geef feedback";
+Please_Input_Grade = "Voer een numerieke rang";
+Profile = "Profiel";
+Register = "Registreren";
+School_Name = "Naam van de school";
+Student = "Student";
+Submit = "Opslaan";
+Subtitle = "Ondertitel";
+Teacher = "Leraar";
+Title = "Titel";
+Translator = "Vertaler";
+Translator_Coming_Soon = "Vertaler: Coming Soon!";
+Username = "Gebruikersnaam";

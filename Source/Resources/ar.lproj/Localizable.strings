@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  ready
+
+  Created by Patrick Sheehan on 4/14/16.
+  Copyright © 2016 Siochain. All rights reserved.
+*/
+
+Already_A_Member_Login = "عضو مسبقا ؟ تسجيل الدخول";
+Change_Profile_Pic = "تغيير صورة البروفايل";
+Completed_By = "اكتمل بواسطة";
+Confirm_Password = "تأكيد كلمة المرور";
+Create = "إنشاء";
+Deadline = "الموعد النهائي";
+Discover = "اكتشف";
+Email = "البريد الإلكتروني";
+Feedback = "تقييمك";
+Grades = "الدرجات";
+Invite = "أدعو";
+Incomplete = "غير مكتمل";
+Language = "اللغة";
+Language_Name = "العربية";
+Login = "تسجيل الدخول";
+Logoff = "تسجيل الخروج";
+My_Assignments = "مهامي";
+My_Classes = "صفوفي";
+My_Classmates = "أصدقائي في الصف";
+My_Students = "طلابي";
+Native_Language = "اللغة الأم";
+Not_A_Member_Register = "لست عضوا حتى الآن؟ تسجيل";
+Other_Teachers = "المعلمين الآخرين";
+Password = "كلمة السر";
+Password_Requirements = "متطلبات كلمة المرور";
+Password_Requirement_A = "أحرف على الأقل";
+Password_Requirement_B = "رقم واحد على الأقل";
+Password_Requirement_C = "حرف واحد على الأقل";
+Password_Requirement_D = "لا تستعمل أحرف خاصة";
+Please_Input_Title = "يرجى إدخال عنوان";
+Please_Input_Feedback = "يرجى إدخال التقييم";
+Please_Input_Grade = "يرجى إدخال الملاحظات الرقمية";
+Profile = "البروفايل";
+Register = "تسجيل";
+School_Name = "اسم المدرسة";
+Student = "طالب";
+Submit = "إرسال";
+Subtitle = "الترجمة";
+Teacher = "معلم";
+Title = "عنوان";
+Translator = "مترجم";
+Translator_Coming_Soon = "!  مترجم : سيتوفر قريبا";
+Username = "اسم المستخدم";
